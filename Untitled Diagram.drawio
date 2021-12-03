@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T05:57:34.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="8_nfNaO-IJzKAxw8C8U9" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T07:12:33.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="IzreWvfJgGgM54UyT29M" version="15.8.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,35 +37,38 @@
         <mxCell id="duDNzdTz6WIy8Qb_8d35-2" value="PHYSIC_DICT_table" style="text;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="895" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-0" value="STORAGE_IO_DETAIL" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-0" value="STORAGE_IO_DETAIL" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="994" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-1" value="药品账页表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-1" value="药品账页表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="989" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-2" value="单据审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-2" value="单据审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-4" value="审核" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-4" value="审核" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="360" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I9v_ZmmY3Ibr-8CFH974-2" target="I9v_ZmmY3Ibr-8CFH974-4">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I9v_ZmmY3Ibr-8CFH974-2" target="I9v_ZmmY3Ibr-8CFH974-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="370" as="sourcePoint" />
             <mxPoint x="240" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-7" value="PHYSIC_IO_SORT_DICT_TABLE 出入库类别字典" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-7" value="PHYSIC_IO_SORT_DICT_TABLE 出入库类别字典" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="40" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-8" value="PHYSIC_DOLE_OUT_BUFFER 药品出入库缓存表" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-8" value="PHYSIC_DOLE_OUT_BUFFER 药品出入库缓存表" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="70" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-9" value="PHYSIC.STORAGE_IO_DETAIL 药品账页表" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-9" value="PHYSIC.STORAGE_IO_DETAIL 药品账页表" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="110" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I9v_ZmmY3Ibr-8CFH974-11" value="f_iniget(&#39;inout_apply_in_insert_last_col&#39;)&amp;nbsp; 获取本地参数" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I9v_ZmmY3Ibr-8CFH974-11" value="f_iniget(&#39;inout_apply_in_insert_last_col&#39;)&amp;nbsp; 获取本地参数" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="520" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M5dV1TBp90oPznt4KIOJ-2" value="病人预交金余额表&amp;nbsp;SICK_PREPAY_BALANCE" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1040" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
