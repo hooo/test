@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T07:54:38.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Jyc7zzwuahe8B_Sss3Eg" version="15.9.1" type="github" pages="2">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-12-07T11:37:52.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="mwO4quMQxAyL56xVGy2M" version="15.9.1" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="药库">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,22 +48,22 @@
         <mxCell id="M5dV1TBp90oPznt4KIOJ-3" value="病人诊病信息 DISPENSARY_SICK_CURE_INFO" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="1080" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfKDcmXPGpfuEukkGacs-0" value="w_apply_dispensary_single 门诊医生工作站" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfKDcmXPGpfuEukkGacs-0" value="w_apply_dispensary_single 门诊医生工作站" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="1040" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfKDcmXPGpfuEukkGacs-1" value="sick_visit_info" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfKDcmXPGpfuEukkGacs-1" value="sick_visit_info" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="750" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfKDcmXPGpfuEukkGacs-2" value="ic_used_status" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfKDcmXPGpfuEukkGacs-2" value="ic_used_status" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="780" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfKDcmXPGpfuEukkGacs-3" value="ic_card_deposit" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfKDcmXPGpfuEukkGacs-3" value="ic_card_deposit" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfKDcmXPGpfuEukkGacs-4" value="ic_maintain_rec" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfKDcmXPGpfuEukkGacs-4" value="ic_maintain_rec" style="text;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="690" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfKDcmXPGpfuEukkGacs-5" value="病人挂号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dfKDcmXPGpfuEukkGacs-5" value="病人挂号" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
