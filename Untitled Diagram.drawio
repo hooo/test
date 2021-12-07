@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T13:34:09.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="cMmtWwRDKzFBj_Gg9-Oc" version="15.9.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-07T13:44:11.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bvpcoH1t6QcbrdDbm9_i" version="15.9.1" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="药库">
     <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,20 @@
         </mxCell>
         <mxCell id="5BeZaeCzSIFB1SbFFCD7-5" value="f_getsysparm(&#39;disp_settle_print_invoice_flag&#39;)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="5BeZaeCzSIFB1SbFFCD7-1">
           <mxGeometry x="180" y="150" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rCwiQmUU2ZlU6ME3NKwl-0" value="staff_invoice_range 单据号" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="5BeZaeCzSIFB1SbFFCD7-1">
+          <mxGeometry x="160" y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tuug5oTxZtT29x1RCzXA" name="Oracle">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="k3fydmrAbsfxLc5BwEOa-0" />
+        <mxCell id="k3fydmrAbsfxLc5BwEOa-1" parent="k3fydmrAbsfxLc5BwEOa-0" />
+        <mxCell id="k3fydmrAbsfxLc5BwEOa-2" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;all_tab_comments &amp;nbsp;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="k3fydmrAbsfxLc5BwEOa-1">
+          <mxGeometry x="180" y="40" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
